@@ -1,0 +1,23 @@
+# 비밀 정보
+.env
+*.key
+
+# 결과물·로그 (폴더 유지용 .gitkeep만 추적)
+output/*
+logs/*
+!output/.gitkeep
+!logs/.gitkeep
+
+# 파이썬
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+
+# OS/에디터
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
