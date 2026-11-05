@@ -6,7 +6,7 @@
 
 아래 4개를 **끝까지 읽고** 나서 쓴다. 충돌하면 1번이 가장 우선한다.
 
-1. `docs/guides/ev-post-rules.md`: 전기차 글 전용 규칙 (제목은 모델명만, 축약, 소제목마다 요약 이미지로 시작, 표 가운데 정렬, 고정 목차)
+1. `docs/guides/ev-post-rules.md`: 전기차 글 전용 규칙 (제목은 모델명만, 축약, 표와 중복되는 이미지 금지·실제 차량 사진은 출처 표기, 표 가운데 정렬, 고정 목차)
 2. `docs/guides/style-guide.md`: 말투, 서식, 줄 나누기, 붙여넣기 서식
 3. `docs/guides/seo-guide.md`: 키워드, 구조, 이미지 마커, 태그
 4. `docs/guides/image-guide.md`: 마커를 이미지 파일로 만드는 방법
