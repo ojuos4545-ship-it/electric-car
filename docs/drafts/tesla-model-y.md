@@ -4,11 +4,10 @@
 > 프리미엄 RWD가 4,999만 원이고,
 > 서울 기준 보조금을 빼면 4,778만 원부터입니다.
 
-[IMAGE: 사진 | 설명: 테슬라 모델 Y 외관 대표 사진]
+[IMAGE: 사진 | 설명: 테슬라 모델 Y 전면 외관 대표 사진]
 
-사진: OWS Photography, CC BY 4.0,
+사진: HJUdall, CC0,
 출처 Wikimedia Commons
-(크기 조정, 앞유리 내부 흐림 처리)
 
 안녕하세요, 여러분!
 올해 가격이 여러 번 바뀌어서
@@ -23,6 +22,12 @@ L(6인승) 7,299만 원입니다.
 ---
 
 ## 1. 가격과 보조금 - 실구매가는 얼마일까?
+
+[IMAGE: 사진 | 설명: 테슬라 모델 Y 가격 이야기의 시작, 흰색 모델 Y 전면 사진]
+
+사진: Aos.1905, CC BY 4.0,
+출처 Wikimedia Commons
+(일본 판매 모델, 크기 조정)
 
 금액은 모두 만 원 단위이고, 가격은 2026년 7월 1일 인상 보도 기준입니다.
 지방비는 서울 기준 최대치입니다.
@@ -46,6 +51,11 @@ L(6인승) 7,299만 원입니다.
 
 ## 2. 인증 주행거리 - 겨울에는 얼마나 줄어들까?
 
+[IMAGE: 사진 | 설명: 눈 쌓인 길 위의 테슬라 모델 Y, 겨울철 주행거리 참고 사진]
+
+사진: Bull-Doser, 퍼블릭 도메인,
+출처 Wikimedia Commons (크기 조정)
+
 무공해차 통합누리집의 2026년 인증값입니다.
 평소는 상온 복합, 겨울철은 저온 복합 기준입니다.
 
@@ -63,6 +73,12 @@ L(6인승) 7,299만 원입니다.
 ---
 
 ## 3. 충전 시간 - 급속과 완속은 얼마나 걸릴까?
+
+[IMAGE: 사진 | 설명: 충전기 옆에 전시된 테슬라 모델 Y 사진]
+
+사진: Littootze 622 Miammoel, CC0,
+출처 Wikimedia Commons
+(홍콩 매장, 시각 표시 부분 잘라냄)
 
 한국 판매 사양의 공식 충전 시간은 확인하지 못했습니다.
 아래는 해외 시험과 블로그에서 소개한 참고값입니다.
@@ -82,6 +98,12 @@ L(6인승) 7,299만 원입니다.
 
 ## 4. 최근 이슈 - 꼭 알아둘 3가지는?
 
+[IMAGE: 사진 | 설명: 테슬라 모델 Y 후면 사진, 후방카메라 리콜 이슈 참고]
+
+사진: Raf24~commonswiki, CC BY 4.0,
+출처 Wikimedia Commons
+(번호판 흐림 처리, 크기 조정)
+
 | 시기 | 구분 | 내용 |
 | :---: | :---: | :---: |
 | 2026.07 | 가격 | 롱레인지 AWD·L 각 300만 원 인상, RWD 동결 |
@@ -96,6 +118,12 @@ L(6인승) 7,299만 원입니다.
 ---
 
 ## 5. 평판 - 장점과 단점은 무엇일까?
+
+[IMAGE: 사진 | 설명: 도로 위를 달리는 테슬라 모델 Y 사진]
+
+사진: OWS Photography, CC BY 4.0,
+출처 Wikimedia Commons
+(크기 조정, 앞유리 내부 흐림 처리)
 
 | 장점 👍 | 단점 👎 |
 | :---: | :---: |
@@ -138,7 +166,14 @@ L(6인승) 7,299만 원입니다.
 **태그:** `#테슬라모델Y #모델Y가격 #모델Y보조금 #모델Y실구매가 #전기차보조금 #모델Y주행거리 #모델Y충전시간 #모델Y후기 #테슬라`
 
 <!-- 근거와 확인 상태 (style-guide 10장)
-- 대표 사진: Wikimedia Commons 'File:Tesla Model Y Juniper Washington DC Metro Area, USA (1).jpg', 저작자 OWS Photography(본인 촬영작), CC BY 4.0 https://creativecommons.org/licenses/by/4.0 , 2025-04-18 촬영, 파일 페이지 https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Juniper_Washington_DC_Metro_Area,_USA_(1).jpg , 라이선스 확인일 2026-11-05. 변경: 폭 1080px로 축소, 앞유리 내부(탑승자) 흐림 처리. 미국에서 찍은 사진이라 한국 판매 차량과 휠·색상 등이 다를 수 있음.
+- 사진 6장(모두 Wikimedia Commons, 라이선스·저작자는 2026-11-05에 파일 페이지 정보로 확인. 한국 판매 차량과 휠·색상·사양이 다를 수 있음):
+  · 01_photo_front.jpg: HJUdall, CC0, 2025-07-01, 미국 애리조나 딜러 촬영 https://commons.wikimedia.org/wiki/File:26_Tesla_Model_Y_Long_Range.jpg (크기 조정)
+  · 02_photo_mall.jpg: Aos.1905, CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ , 2025-09-30, 일본 테슬라 오사카 이바라키 전시 https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(Juniper,_facelift)_(front_three-quarter_view)_at_Tesla_Osaka_Ibaraki.jpg (크기 조정)
+  · 03_photo_snow.jpg: Bull-Doser, 퍼블릭 도메인, 2026-01-16, 캐나다 몬트리올 오토쇼 https://commons.wikimedia.org/wiki/File:2026_Tesla_Model_Y_dans_l%27ext%C3%A9rieur_de_SIAM_2026_au_coin_de_Bleury_et_Viger.jpg (크기 조정)
+  · 04_photo_showroom.jpg: Littootze 622 Miammoel, CC0, 2025-06-08, 홍콩 매장 https://commons.wikimedia.org/wiki/File:HK_SKD_%E8%A5%BF%E8%B2%A2%E5%8C%97_Sai_Kung_North_%E6%B5%B7%E6%98%A0%E8%B7%AF_Hoi_Ying_Road_%E8%A5%BF%E6%B2%99_Go_Park_Sai_Sha_shop_TESLA_Showroom_June_2025_R12S_03.jpg (아래쪽 촬영 시각 표시를 잘라내고 크기 조정)
+  · 05_photo_rear.jpg: Raf24~commonswiki, CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ , 2025-07-01, 폴란드 바르샤바 https://commons.wikimedia.org/wiki/File:Tesla_Model_Y,_WAW(2).jpg (번호판 3곳 흐림 처리, 크기 조정)
+  · 06_photo_aerial.jpg: OWS Photography(본인 촬영작), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/ , 2025-04-18, 미국 워싱턴 DC https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_Juniper_Washington_DC_Metro_Area,_USA_(1).jpg (앞유리 내부 탑승자 흐림 처리, 크기 조정)
+  · 제외한 후보: 사람 얼굴이 나온 사진, 우핸들 실내 사진, 구형(2024년식 이전) 외관, CC BY-SA 라이선스 사진
 ※ 아래 국내 사이트 일부는 네트워크 제한으로 본문을 직접 열지 못했고, 검색 결과 요약 기준으로만 확인했다. 발행 전 사람이 원문을 열어 확인할 것.
 - 1·2장 가격·보조금·인증값, 4장 리콜 17건·2026.05·2025.02 리콜, 가격 인상 폭: 2026-11-04 기준 사용자 기존 원고(복사용 페이지)의 값을 그대로 옮김. 이번 세션에서 원출처(통합누리집, 자동차리콜센터, 테슬라 코리아)를 다시 열어 확인하지 못함.
 - 4장 2026.07 가격 인상·4월에 이어 두 번째 조정: https://topictree.co.kr/automobiles/news/tesla-model-3-y-2026-price-hike/ , https://www.kukinews.com/article/view/kuk202607010094 (검색 요약 기준, 본문 미확인)
